@@ -13,7 +13,7 @@ function addTerms(){
 
 
 function start(){
-  t = setTimeout(addTerms, 1000);
+  t = setTimeout(addTerms, 250);
 }
 
 
